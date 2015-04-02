@@ -13,6 +13,15 @@
   )
 
   (page A4)
+  (title_block
+    (title "StickIt! Motherboard / Raspberry Pi B+ Hat")
+    (date "Thursday, April 02, 2015")
+    (rev 4.0)
+    (company "XESS Corp.")
+    (comment 1 "(c) 2015")
+    (comment 2 CC-BY-SA)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
