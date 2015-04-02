@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by Cvpcb (2015-03-15 BZR 5517)-product   date = 04/02/2015 12:49:26 PM
+
+BeginCmp
+TimeStamp = /5519E854;
+Reference = C1;
+ValeurCmp = 22uF;
+IdModule  = Capacitors_SMD:c_elec_4x5.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5519E7D1;
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5519EB9A;
+Reference = C3;
+ValeurCmp = 22uF;
+IdModule  = Capacitors_SMD:c_elec_4x5.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5519EB94;
+Reference = C4;
+ValeurCmp = 4.7uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /551AFE5E;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551829DE;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /5518142D;
+Reference = GPIO1;
+ValeurCmp = RPi_GPIO;
+IdModule  = RPi_Hat:Pin_Header_Straight_2x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /55181943;
+Reference = J1;
+ValeurCmp = JSHORTNORMAL;
+IdModule  = XESS:xess-JSHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55181E79;
+Reference = J3;
+ValeurCmp = XuLA_IO_HDR;
+IdModule  = XESS:XuLA_IO_Hdr;
+EndCmp
+
+BeginCmp
+TimeStamp = /55183A24;
+Reference = J4;
+ValeurCmp = JSHORTNORMAL;
+IdModule  = XESS:xess-JSHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55183931;
+Reference = J5;
+ValeurCmp = JSHORTNORMAL;
+IdModule  = XESS:xess-JSHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55182A6A;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = XESS:HDR_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55182B35;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = XESS:HDR_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55182078;
+Reference = JP3;
+ValeurCmp = JUMPER3;
+IdModule  = XESS:HDR_1x3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55183A1E;
+Reference = JP4;
+ValeurCmp = JUMPER3;
+IdModule  = XESS:HDR_1x3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5518392B;
+Reference = JP5;
+ValeurCmp = JUMPER3;
+IdModule  = XESS:HDR_1x3;
+EndCmp
+
+BeginCmp
+TimeStamp = /551AEBDC;
+Reference = JP6;
+ValeurCmp = JUMPER;
+IdModule  = XESS:HDR_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /551AECE7;
+Reference = JP7;
+ValeurCmp = JUMPER;
+IdModule  = XESS:HDR_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /551AED33;
+Reference = JP8;
+ValeurCmp = JUMPER;
+IdModule  = XESS:HDR_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /551B8C71;
+Reference = JP9;
+ValeurCmp = JUMPER;
+IdModule  = XESS:HDR_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /551C21A9;
+Reference = JP10;
+ValeurCmp = JUMPER;
+IdModule  = XESS:HDR_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55181438;
+Reference = PM1;
+ValeurCmp = PMOD_SCKT-12;
+IdModule  = XESS:PMOD_SCKT-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /55183A14;
+Reference = PM2;
+ValeurCmp = PMOD_SCKT-12;
+IdModule  = XESS:PMOD_SCKT-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /55183921;
+Reference = PM3;
+ValeurCmp = PMOD_SCKT-12;
+IdModule  = XESS:PMOD_SCKT-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /551AF55F;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551AF2C0;
+Reference = RN1;
+ValeurCmp = 3.9K;
+IdModule  = XESS:CTS_742C043;
+EndCmp
+
+BeginCmp
+TimeStamp = /55182122;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = XESS:SW_EVP-AA002;
+EndCmp
+
+BeginCmp
+TimeStamp = /551D9F9C;
+Reference = TP1;
+ValeurCmp = JUMPER;
+IdModule  = XESS:HDR_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /551828EF;
+Reference = U1;
+ValeurCmp = NCV1117;
+IdModule  = XESS:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = /551AE8F0;
+Reference = U2;
+ValeurCmp = EEPROM_I2C;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+EndListe
