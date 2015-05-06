@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-15 BZR 5517)-product   date = 04/02/2015 1:22:15 PM
+Cmp-Mod V01 Created by Cvpcb (2015-03-15 BZR 5517)-product   date = 04/03/2015 11:58:51 AM
 
 BeginCmp
 TimeStamp = /5519E854;
@@ -47,6 +47,41 @@ TimeStamp = /5518142D;
 Reference = GPIO1;
 ValeurCmp = RPi_GPIO;
 IdModule  = RPi_Hat:Pin_Header_Straight_2x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F8923;
+Reference = GR1;
+ValeurCmp = Grove;
+IdModule  = XESS:GROVE_MALE;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E1A5E;
+Reference = GR2;
+ValeurCmp = Grove;
+IdModule  = XESS:GROVE_MALE;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E1A66;
+Reference = GR3;
+ValeurCmp = Grove;
+IdModule  = XESS:GROVE_MALE;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E1BA8;
+Reference = GR4;
+ValeurCmp = Grove;
+IdModule  = XESS:GROVE_MALE;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E1BB0;
+Reference = GR5;
+ValeurCmp = Grove;
+IdModule  = XESS:GROVE_MALE;
 EndCmp
 
 BeginCmp
