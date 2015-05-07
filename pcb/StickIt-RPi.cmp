@@ -1,38 +1,38 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-15 BZR 5517)-product   date = 04/03/2015 11:58:51 AM
+Cmp-Mod V01 Created by Cvpcb (2015-04-14 BZR 5597)-product   date = 05/06/2015 10:40:40 PM
 
 BeginCmp
 TimeStamp = /5519E854;
 Reference = C1;
 ValeurCmp = 22uF;
-IdModule  = Capacitors_SMD:c_elec_4x5.7;
+IdModule  = Capacitors_SMD:c_elec_5x5.3;
 EndCmp
 
 BeginCmp
 TimeStamp = /5519E7D1;
 Reference = C2;
 ValeurCmp = 4.7uF;
-IdModule  = Capacitors_SMD:C_0805;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /5519EB9A;
 Reference = C3;
 ValeurCmp = 22uF;
-IdModule  = Capacitors_SMD:c_elec_4x5.7;
+IdModule  = Capacitors_SMD:c_elec_5x5.3;
 EndCmp
 
 BeginCmp
 TimeStamp = /5519EB94;
 Reference = C4;
 ValeurCmp = 4.7uF;
-IdModule  = Capacitors_SMD:C_0805;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
 TimeStamp = /551AFE5E;
 Reference = C5;
 ValeurCmp = 0.1uF;
-IdModule  = Capacitors_SMD:C_0603;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
@@ -207,7 +207,7 @@ BeginCmp
 TimeStamp = /551AF55F;
 Reference = R1;
 ValeurCmp = 1K;
-IdModule  = Resistors_SMD:R_0603;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
@@ -221,7 +221,7 @@ BeginCmp
 TimeStamp = /55182122;
 Reference = SW1;
 ValeurCmp = SW_PUSH;
-IdModule  = XESS:SW_EVP-AA002;
+IdModule  = XESS:RS-282G05A3-SM_RT;
 EndCmp
 
 BeginCmp
@@ -241,7 +241,7 @@ EndCmp
 BeginCmp
 TimeStamp = /551AE8F0;
 Reference = U2;
-ValeurCmp = EEPROM_I2C;
+ValeurCmp = CAT24C32;
 IdModule  = SMD_Packages:SOIC-8-N;
 EndCmp
 
