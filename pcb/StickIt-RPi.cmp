@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-14 BZR 5597)-product   date = 05/06/2015 10:40:40 PM
+Cmp-Mod V01 Created by Cvpcb (2015-04-14 BZR 5597)-product   date = 05/12/2015 11:42:24 AM
 
 BeginCmp
 TimeStamp = /5519E854;
@@ -64,22 +64,8 @@ IdModule  = XESS:GROVE_MALE;
 EndCmp
 
 BeginCmp
-TimeStamp = /551E1A66;
-Reference = GR3;
-ValeurCmp = Grove;
-IdModule  = XESS:GROVE_MALE;
-EndCmp
-
-BeginCmp
 TimeStamp = /551E1BA8;
-Reference = GR4;
-ValeurCmp = Grove;
-IdModule  = XESS:GROVE_MALE;
-EndCmp
-
-BeginCmp
-TimeStamp = /551E1BB0;
-Reference = GR5;
+Reference = GR3;
 ValeurCmp = Grove;
 IdModule  = XESS:GROVE_MALE;
 EndCmp
