@@ -1,0 +1,37 @@
+net clk_i loc=a9;
+
+########################################################################
+# StickIt! LED Digits V2 ==[pm1]==> StickIt! V4 ==> XuLA2
+net s1_o<0> loc = r7;
+net s1_o<1> loc = t7;
+net s1_o<2> loc = r16;
+net s1_o<3> loc = r15;
+net s1_o<4> loc = m16;
+net s1_o<5> loc = m15;
+net s1_o<6> loc = k16;
+net s1_o<7> loc = k15;
+########################################################################
+
+########################################################################
+# StickIt! LED Digits V2 ==[pm2]==> StickIt! V4 ==> XuLA2
+net s2_o<0> loc = t4;
+net s2_o<1> loc = r2;
+net s2_o<2> loc = r1;
+net s2_o<3> loc = m2;
+net s2_o<4> loc = m1;
+net s2_o<5> loc = k3;
+net s2_o<6> loc = j4;
+net s2_o<7> loc = h1;
+########################################################################
+
+########################################################################
+# StickIt! LED Digits V2 ==[pm3]==> StickIt! V4 ==> XuLA2
+net s3_o<0> loc = h2;
+net s3_o<1> loc = f1;
+net s3_o<2> loc = f2;
+net s3_o<3> loc = e1;
+net s3_o<4> loc = e2;
+net s3_o<5> loc = c1;
+net s3_o<6> loc = b1;
+net s3_o<7> loc = b2;
+########################################################################
