@@ -4,8 +4,8 @@
 
 \product[StickIt! Board]
 \manualnum{002}
-\manualversion{4.0}
-\newcommand{\copyrightyear}{2012-2015}
+\manualversion{4.0.1}
+\newcommand{\copyrightyear}{2012-2016}
 \newcommand{\xula}{XuLA Board}
 
 \begin{document}
@@ -24,6 +24,9 @@
 	12/11/2012 & 3.0 & Revised for \product\ V3.0.\\
 	\hline
 	06/04/2015 & 4.0 & Revised for \product\ V4.0.\\
+	\hline
+	02/01/2016 & 4.0.1 & Corrected pin assignment for pin D1 of PM2 connector 
+                       from CH26 to CH16 on page~\pageref{appx:IO_Locations}.\\
 \end{xessrevisiontbl}
 
 \makexesstoc
@@ -665,6 +668,7 @@ the list to create the final UCF file for your ISE project.
 
 
 \chapter{I/O Locations}
+\label{appx:IO_Locations}
 
 The connections of the \xula\ I/O channels to the \digpmod\ and \rpi\
 sockets of the \product\ are shown below.
@@ -673,7 +677,7 @@ sockets of the \product\ are shown below.
 
 
 
-\chapter{\ Schematic}
+\chapter{Schematic}
 
 \pagebreak
 \makebox[\textwidth][r]{\hss\includegraphics[width=\textheight, angle=90]{StickIt-Hat_sch.png}}

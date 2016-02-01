@@ -12,8 +12,8 @@
    height="7.33806cm"
    viewBox="0 0 41230 28890 "
    id="svg2"
-   inkscape:version="0.91pre4 r13712"
-   sodipodi:docname="StickIt-RPi-IO2.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="StickIt-RPi-IO.svg"
    inkscape:export-filename="C:\xesscorp\PRODUCTS\StickIt_2nd_gen\StickIt_Hat\docs\Manual\pics\channel_connects.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -44,9 +44,9 @@
      inkscape:window-height="1082"
      id="namedview35744"
      showgrid="false"
-     inkscape:zoom="3.2285076"
-     inkscape:cx="128.76415"
-     inkscape:cy="145.1608"
+     inkscape:zoom="2.9479049"
+     inkscape:cx="133.27004"
+     inkscape:cy="136.42073"
      inkscape:window-x="1695"
      inkscape:window-y="36"
      inkscape:window-maximized="0"
@@ -3033,7 +3033,7 @@
            id="tspan38882"
            sodipodi:role="line">CH24</tspan><tspan
            id="tspan38884"
-           sodipodi:role="line"></tspan></text>
+           sodipodi:role="line" /></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:555.55664302px;line-height:180%;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
@@ -3055,25 +3055,39 @@
            sodipodi:role="line">CH23</tspan></text>
       <text
          xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:555.55664302px;line-height:180%;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr;baseline-shift:baseline;text-anchor:end;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:555.55664063px;line-height:179.99999523%;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          x="8432.3174"
          y="19069.645"
          id="text38934"
          sodipodi:linespacing="180%"><tspan
            id="tspan38964"
-           sodipodi:role="line">VCC</tspan><tspan
+           sodipodi:role="line"
+           x="8432.3174"
+           y="19069.645">VCC</tspan><tspan
            id="tspan38966"
-           sodipodi:role="line">GND</tspan><tspan
+           sodipodi:role="line"
+           x="8432.3174"
+           y="20069.646">GND</tspan><tspan
            id="tspan38968"
-           sodipodi:role="line">CH22</tspan><tspan
+           sodipodi:role="line"
+           x="8432.3174"
+           y="21069.648">CH22</tspan><tspan
            id="tspan38970"
-           sodipodi:role="line">CH20</tspan><tspan
+           sodipodi:role="line"
+           x="8432.3174"
+           y="22069.65">CH20</tspan><tspan
            id="tspan38972"
-           sodipodi:role="line">CH18</tspan><tspan
+           sodipodi:role="line"
+           x="8432.3174"
+           y="23069.652">CH18</tspan><tspan
            id="tspan38974"
-           sodipodi:role="line">CH26</tspan><tspan
+           sodipodi:role="line"
+           x="8432.3174"
+           y="24069.654">CH16</tspan><tspan
            id="tspan38976"
-           sodipodi:role="line"></tspan></text>
+           sodipodi:role="line"
+           x="8432.3174"
+           y="25069.656" /></text>
       <text
          sodipodi:linespacing="180%"
          id="text38950"
@@ -3114,7 +3128,7 @@
            id="tspan39016"
            sodipodi:role="line">CHCLK</tspan><tspan
            id="tspan39018"
-           sodipodi:role="line"></tspan></text>
+           sodipodi:role="line" /></text>
       <text
          transform="matrix(0,-1.0000001,0.9999999,0,0,0)"
          xml:space="preserve"
@@ -3143,11 +3157,11 @@
          id="text39046"
          sodipodi:linespacing="180%"><tspan
            id="tspan39082"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39084"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39086"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39088"
            sodipodi:role="line">CH14</tspan><tspan
            id="tspan39090"
@@ -3155,13 +3169,13 @@
            id="tspan39092"
            sodipodi:role="line">CH12</tspan><tspan
            id="tspan39094"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39096"
            sodipodi:role="line">CH11</tspan><tspan
            id="tspan39098"
            sodipodi:role="line">CH10</tspan><tspan
            id="tspan39100"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39102"
            sodipodi:role="line">CH9</tspan><tspan
            id="tspan39104"
@@ -3169,13 +3183,13 @@
            id="tspan39106"
            sodipodi:role="line">CH7</tspan><tspan
            id="tspan39108"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39110"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39112"
            sodipodi:role="line">CH6</tspan><tspan
            id="tspan39114"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39116"
            sodipodi:role="line">CH3</tspan><tspan
            id="tspan39118"
@@ -3190,7 +3204,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:555.55664302px;line-height:180%;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr;baseline-shift:baseline;text-anchor:end;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
          xml:space="preserve"><tspan
            id="tspan39156"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39158"
            sodipodi:role="line">CH31</tspan><tspan
            id="tspan39160"
@@ -3198,7 +3212,7 @@
            id="tspan39162"
            sodipodi:role="line">CH29</tspan><tspan
            id="tspan39164"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39166"
            sodipodi:role="line">CH28</tspan><tspan
            id="tspan39168"
@@ -3206,7 +3220,7 @@
            id="tspan39170"
            sodipodi:role="line">CH26</tspan><tspan
            id="tspan39172"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39174"
            sodipodi:role="line">CH25</tspan><tspan
            id="tspan39176"
@@ -3214,9 +3228,9 @@
            id="tspan39178"
            sodipodi:role="line">CH23</tspan><tspan
            id="tspan39180"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39182"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan39184"
            sodipodi:role="line">CH22</tspan><tspan
            id="tspan39186"
@@ -3228,7 +3242,7 @@
            id="tspan39192"
            sodipodi:role="line">CH0</tspan><tspan
            id="tspan39194"
-           sodipodi:role="line"></tspan></text>
+           sodipodi:role="line" /></text>
     </g>
     <g
        transform="matrix(0,1.0000001,-0.9999999,0,31605.424,-2673.764)"
